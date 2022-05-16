@@ -6,7 +6,7 @@
 int main()
 {
   std::cout<<"Hi I'm @isaaholic"<<std::endl;
-  std::cout<<"I'm a code who wish become .NET developer"<<std::endl;
+  std::cout<<"I'm a coder who wishes become .NET developer"<<std::endl;
 }
 ```
 <hr>
