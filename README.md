@@ -1,15 +1,22 @@
 <h3 align="center">Hi, Human 👋</h3>
 
-```C
-#include <iostream>
+```csharp
+using System;
 
-int main()
+namespace StepIT
 {
-  std::cout<<"Hi I'm @isaaholic"<<std::endl;
-  std::cout<<"I'm a coder who wishes become .NET developer"<<std::endl;
-  std::cout<<"I'm still learning C++ OPP"<<std::endl;
+  public class HelloGithub
+  {
+    static public void Main()
+    {
+      Console.WriteLine("Hi I'm @isaaholic");
+      Console.WriteLine("I'm a coder who wishes become .NET developer");
+      Console.WriteLine("I'm still learning C++ OPP,but interested C#");
+    }
+  }
 }
 ```
+
 <hr>
 <h3 align="center">Some things I'm interested in:</h3>
 <br>
