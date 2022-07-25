@@ -7,7 +7,7 @@ namespace StepIT
 {
   public class HelloGithub
   {
-    static public void Main()
+    public static void Main()
     {
       Console.WriteLine("Hi I'm @isaaholic");
       Console.WriteLine("I'm a coder who wishes become .NET developer");
