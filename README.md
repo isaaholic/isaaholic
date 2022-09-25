@@ -36,6 +36,7 @@ namespace StepIT
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg alt=angular width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="30" height="30"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg alt=linux width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
