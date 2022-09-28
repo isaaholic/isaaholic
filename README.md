@@ -45,3 +45,7 @@ namespace StepIT
 <a href="https://www.buymeacoffee.com/isaaholic" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 </p>
+<div style:"align-items: center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaaholic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaholic&layout=compact&langs_count=7&theme=dracula"/>
+</div>
