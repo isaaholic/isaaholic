@@ -11,7 +11,7 @@ namespace StepIT
     {
       Console.WriteLine("Hi I'm @isaaholic");
       Console.WriteLine("I'm a coder who wishes become .NET developer");
-      Console.WriteLine("I'm learning WPF");
+      Console.WriteLine("I don't know what i do");
     }
   }
 }
