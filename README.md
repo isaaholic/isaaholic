@@ -39,6 +39,7 @@ namespace StepIT
 <br />
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" height="45" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,9 +62,13 @@ namespace StepIT
 
 <h3 align="center">Language</h3>
 <div align="center">  
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt="C#" height="50" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+<br />
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="javascript" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="50" /></a>  
+
+
 </div>
 
 </td></tr></table>
