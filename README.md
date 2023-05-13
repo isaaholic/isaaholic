@@ -34,12 +34,14 @@ namespace StepIT
 <h3 align="center">Frontend</h3>
 <div align="center">  
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="Blazor" height="50" /></a>  
-<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg alt="Bootstrap" height="50" /></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg alt="ASP.NET" height="50" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg alt="TailwindCSS" height="50" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg alt="Bootstrap" height="50" /></a></a>
 <br />
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<br />
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" height="45" /></a>
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="45" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -49,11 +51,10 @@ namespace StepIT
 <h3 align="center">Backend</h3>
 <div align="center">  
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg alt="ASP.NET WEB API" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg alt="Bootstrap" height="50" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg alt="mssqlserver" height="50" /></a>
-<br />
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg alt="PostgreSQL" height="50" /></a>
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg alt="GraphQL" height="50" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img style="margin: 10px;" src=https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg alt="mssqlserver" height="50" /></a>
 <a href="https://learn.microsoft.com/en-us/ef/" target="_blank"><img style="margin: 10px" src=https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png alt="EFCore" height="50" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview" target="_blank"><img style="margin: 10px" src=https://static.javatpoint.com/ado/images/ado-net-tutorial.jpg alt="ADO.NET" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -76,7 +77,7 @@ namespace StepIT
 <div align="center">
   <p align="center">
 <a href="https://www.buymeacoffee.com/isaaholic" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
+<hr>
 </p>
 <!--
 <div style:"align-items: center">
