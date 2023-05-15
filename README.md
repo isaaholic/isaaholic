@@ -85,9 +85,12 @@ namespace StepIT
 </div>
 -->
   <div style:"align-items: center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaaholic&" alt="isaaholic" />
+<img width="500" src="https://metrics.lecoq.io/isaaholic" alt="Github Metrics">
 </div>
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
 </div>
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=isaaholic" alt="isaaholic"/> </p>  </p>
+<br>
 
