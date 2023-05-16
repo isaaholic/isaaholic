@@ -1,17 +1,20 @@
 <h3 align="center">Hi, Human 👋</h3>
 
 ```csharp
-using System;
-
-namespace StepIT
+namespace Azerbaijan
 {
-  public class HelloGithub
+  public static class Program
   {
-    public static void Main()
+    public static void Main(string[] args)
     {
-      Console.WriteLine("Hi I'm @isaaholic");
-      Console.WriteLine("I'm a coder who wishes become .NET developer");
-      Console.WriteLine("I don't know what i do");
+        var dev = new Developer()
+        {
+          FirstName = "Isa",
+          LastName = "Mamamadli".
+          Age = (DateTime.UtcNow.Year - 2003),
+          Level = DeveloperLevel.Junior
+        };
+        dev.Run();
     }
   }
 }
