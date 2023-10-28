@@ -12,7 +12,7 @@ namespace Azerbaijan
           FirstName = "Isa",
           LastName = "Mamamadli".
           Age = (DateTime.UtcNow.Year - 2003),
-          Level = DeveloperLevel.Middle
+          Level = DeveloperLevel.JuniorMiddle
         };
         dev.Run();
     }
