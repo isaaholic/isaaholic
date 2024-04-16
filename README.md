@@ -5,7 +5,7 @@
 <h3 align="center">My Main Stack:</h3>
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=605CA9&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;Who+is+he%3F;%40isaaholic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=605CA9&center=true&vCenter=true&width=500&lines=Full+Stack+Mobile+Developer;Who+is+he%3F;%40isaaholic)](https://git.io/typing-svg)
 
 </h1>
 <br>
